@@ -1,0 +1,15 @@
+#include<iostream.h>
+
+void main()
+{
+
+int gaji, jam;
+
+cout<<"Lama bekerja = "<<"jam"<<endl;
+cin>>jam;
+
+gaji = jam * 5000;
+cout<<"Maka upah gaji yang diterima sebanyak Rp. "<<gaji<<endl;
+}
+
+
